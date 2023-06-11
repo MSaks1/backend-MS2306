@@ -75,5 +75,5 @@ app.put('/api/treks/:trekId', async (req, res) => {
 });
 
 app.listen(5070, () => {
-    console.log("Server running on port 10000");
+    console.log("Server running on port 1000");
 });
